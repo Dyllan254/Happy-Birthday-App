@@ -1,0 +1,1 @@
+This is a simple happy birthday app to wish someone a happy birthday. This app was built to show the simple basics of Jetpack Compose. It was built using Text composables. An image was also added. The text elements was arranged in a column using Column composable and the Box composable was used to stack the image and text elements on top of each other.
