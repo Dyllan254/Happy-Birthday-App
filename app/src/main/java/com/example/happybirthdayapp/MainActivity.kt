@@ -45,7 +45,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun GreetingImage(message: String, from: String, modifier: Modifier = Modifier) {
-    val image = painterResource(R.drawable.android_party )
+    val image = painterResource(R.drawable._uja63 )
     Box(modifier){
         Image(
             painter = image,
